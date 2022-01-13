@@ -15277,6 +15277,8 @@ with pkgs;
     lua = lua5;
   } // (config.radare or {}));
 
+  iaito = libsForQt5.callPackage ../development/tools/analysis/radare2/iaito.nix { };
+
   ran = callPackage ../servers/http/ran { };
 
   retry = callPackage ../tools/system/retry { };
