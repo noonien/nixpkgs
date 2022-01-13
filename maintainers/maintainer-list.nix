@@ -13451,6 +13451,12 @@
     github = "nagisa";
     githubId = 679122;
   };
+  noonien = {
+    name = "George Jiglau";
+    email = "noonix@sx.gl";
+    github = "noonien";
+    githubId = 126649;
+  };
   yevhenshymotiuk = {
     name = "Yevhen Shymotiuk";
     email = "yevhenshymotiuk@gmail.com";
